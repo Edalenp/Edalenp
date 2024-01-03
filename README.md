@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Edalenp
-- 👀 Interested in learning new things of technology
-- 🌱 Currently learning new languages like JavaScript, Python, C++, etc...
-- 📫 Contact me in my email >> eduardonegrin23@gmail.com
+- 👋 Hola, soy @Edalenp.
+- 👀 Interesado en aprender nuevas cosas sobre tecnología.
+- 🌱 Actualmente aprendiendo nuevos lenguajes como JavaScript, Python, C++, etc.
+- 📫 Contáctame en mi correo electrónico >> eduardonegrin23@gmail.com
