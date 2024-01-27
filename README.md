@@ -1,3 +1,3 @@
 - 👋 Hola, soy @Edalenp.
 - 👀 Interesado en aprender nuevas cosas sobre tecnología.
-- 📫 Contáctame en mi correo electrónico >> edalenp23@gmail.com
+- 📫 Contáctame en mi Discord >> edalenpp
