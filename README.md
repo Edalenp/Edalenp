@@ -1,3 +1,2 @@
 - 👋 Hola, soy @Edalenp.
 - 👀 Interesado en aprender nuevas cosas sobre tecnología.
-- 📫 Contáctame en mi Discord >> edalenpp
